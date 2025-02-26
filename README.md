@@ -10,7 +10,7 @@
 ### 🌐 &nbsp;My Best Projects
 
 [![Portfolio](https://img.shields.io/badge/jefta.dev-020617?style=for-the-badge)](https://jefta.dev)
-[![MOONVIVE](https://img.shields.io/badge/moonvive.com-6600FF?style=for-the-badge)](https://theuniversenetwork.com)
+[![MOONVIVE](https://img.shields.io/badge/moonvive.com-6600FF?style=for-the-badge)](https://moonvive.com)
 [![The Universe Network](https://img.shields.io/badge/theuniversenetwork.com-43009E?style=for-the-badge)](https://theuniversenetwork.com)
 [![DevWallet](https://img.shields.io/badge/devwallet.nl-0052FF?style=for-the-badge)](https://devwallet.nl)
 [![CreatorWallet](https://img.shields.io/badge/creatorwallet.nl-FF015C?style=for-the-badge)](https://creatorwallet.nl)
