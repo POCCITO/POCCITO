@@ -33,6 +33,3 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Poccito-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/869310306000707684)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefta%20Alberts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeftaalberts)
-[![YouTube](https://img.shields.io/badge/YouTube-TheUniverse.Network-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theuniverse.network)
-[![TikTok](https://img.shields.io/badge/TikTok-TheUniverse.Network-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@theuniverse.network)
-
